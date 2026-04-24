@@ -9,7 +9,7 @@ description:
 items:
   - id: "model-80"
     file: "data/product_80.yaml"
-  - id: "model-100"
-    file: "data/product_100.yaml"
+#  - id: "model-100"
+#    file: "data/product_100.yaml"
   - id: "model-100pro"
     file: "data/product_100pro.yaml"
